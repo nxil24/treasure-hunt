@@ -3,16 +3,20 @@ const locations = {
         riddle: "I speak without a mouth and hear without ears. What am I?",
         answer: "echo",
         nft: { name: "Forest", image: "forest.jpg.png" }
+        image: "nft-echo.png.png"
     },
     cave: {
         riddle: "What has to be broken before you can use it?",
         answer: "egg",
         nft: { name: "Crystal cave", image: "cave.jpg.jpg" }
+        image: "nft-echo.png.png"
+        
     },
     ship: {
         riddle: "I have cities, but no houses. Mountains, but no trees. What am I?",
         answer: "map",
         nft: { name: "Ancient road", image: "nft-map.png.jpg" }
+        image: "nft-echo.png.png"
     }
 };
 
