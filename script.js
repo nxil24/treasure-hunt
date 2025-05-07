@@ -2,17 +2,17 @@ const locations = {
     forest: {
         riddle: "I speak without a mouth and hear without ears. What am I?",
         answer: "echo",
-        nft: { name: "Forest", image: "https://www.pexels.com/search/forest/" }
+        nft: { name: "Forest", image: "forest.jpg.jpg" }
     },
     cave: {
         riddle: "What has to be broken before you can use it?",
         answer: "egg",
-        nft: { name: "Crystal cave", image: "https://www.pexels.com/photo/icecave-in-iceland-vatnajkull-glacier-11711904/" }
+        nft: { name: "Crystal cave", image: "cave.jpg.jpg" }
     },
     ship: {
         riddle: "I have cities, but no houses. Mountains, but no trees. What am I?",
         answer: "map",
-        nft: { name: "Ancient road", image: "https://stockcake.com/i/ancient-map-display_824550_888570" }
+        nft: { name: "Ancient road", image: "nft-map.png.png" }
     }
 };
 
