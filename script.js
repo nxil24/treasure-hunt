@@ -15,7 +15,7 @@ const locations = {
     ship: {
         riddle: "I have cities, but no houses. Mountains, but no trees. What am I?",
         answer: "map",
-        nft: { name: "Ancient road", image: "nft-map.png.jpg" }
+        nft: { name: "Ancient map", image: "nft-map.png.jpg" }
         image: "nft-echo.png.png"
     }
 };
