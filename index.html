@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🌟 Treasure Hunt Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🌍 Treasure Hunt Adventure</h1>
+        <p>Click on a location, solve a riddle, and collect virtual treasures!</p>
+    </header>
+
+    <section class="locations">
+        <div class="location-card" onclick="goToLocation('forest')">
+            <img src="https://i.imgur.com/zm8q3Vi.jpg" alt="Forest">
+            <h3>Ancient Forest</h3>
+        </div>
+        <div class="location-card" onclick="goToLocation('cave')">
+            <img src="https://i.imgur.com/FN3UAK5.jpg" alt="Cave">
+            <h3>Crystal Cave</h3>
+        </div>
+        <div class="location-card" onclick="goToLocation('ship')">
+            <img src="https://i.imgur.com/qXsKJdu.jpg" alt="Ship">
+            <h3>Sunken Ship</h3>
+        </div>
+    </section>
+
+    <section id="game-area"></section>
+
+    <section id="nft-collection">
+        <h2>🎖️ Your NFT Treasures</h2>
+        <div id="collection-list" class="nft-list"></div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
