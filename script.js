@@ -2,7 +2,7 @@ const locations = {
     forest: {
         riddle: "I speak without a mouth and hear without ears. What am I?",
         answer: "echo",
-        nft: { name: "Forest", image: "forest.jpg.jpg" }
+        nft: { name: "Forest", image: "forest.jpg.png" }
     },
     cave: {
         riddle: "What has to be broken before you can use it?",
@@ -12,7 +12,7 @@ const locations = {
     ship: {
         riddle: "I have cities, but no houses. Mountains, but no trees. What am I?",
         answer: "map",
-        nft: { name: "Ancient road", image: "nft-map.png.png" }
+        nft: { name: "Ancient road", image: "nft-map.png.jpg" }
     }
 };
 
