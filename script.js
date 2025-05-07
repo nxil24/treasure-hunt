@@ -12,7 +12,7 @@ const locations = {
         image: "nft-echo.png.png"
         
     },
-    ship: {
+    map: {
         riddle: "I have cities, but no houses. Mountains, but no trees. What am I?",
         answer: "map",
         nft: { name: "Ancient map", image: "nft-map.png.jpg" }
